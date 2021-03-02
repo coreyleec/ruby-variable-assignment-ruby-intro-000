@@ -1,3 +1,2 @@
 greeting = "Hello World"
-my_array = [apple, cat, gotham
-]
+my_array = [apple, cat, gotham]
